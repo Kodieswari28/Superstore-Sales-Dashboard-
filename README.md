@@ -9,3 +9,5 @@ This is a Power BI project that analyzes sales data. It shows:
 ### Tools Used:
 * Power BI Desktop
 * GitHub
+![Dashboard Screenshot]
+(dashboard_image.png.png)
